@@ -1,21 +1,10 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12994
-Fork on GitHub
-3353
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Nikhil Jaiswal</h1>
+<div align="center">
+<h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h2 align="center">  Nikhil Jaiswal</h2>
+<br>
+</div>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
+I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
 
 - 🌱 I’m currently learning **React JS**
 
