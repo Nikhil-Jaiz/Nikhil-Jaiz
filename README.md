@@ -3,11 +3,11 @@
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h2 align="center">It's Nikhil Jaiswal</h2>
 </div>
-I am a pre-final year CSE undergrad student at AKGEC, Ghaziabad.
+I am a Final Year CSE undergrad student at AKGEC, Ghaziabad.
 
  -   Pronouns:  He/Him.♀
- -   A passionate Front-End Developer.
- - 🔭 Currently working on React JS & Coding Skills.
+ -  Passionate Software Engineer with expertise in Problem Solving and Algorithmic Thinking. 
+ - 🔭 Currently working on MERN Development React JS .
  -   Looking for opportunities where i can utilise my current skills. 
  - 📫 How to reach me **nikhiljaiswal20@gmail.com**
  <hr>
