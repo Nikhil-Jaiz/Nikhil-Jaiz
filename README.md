@@ -8,7 +8,7 @@ I am a Final Year CSE undergrad student at AKGEC, Ghaziabad.
  -   Pronouns:  He/Him.♀
  -  Passionate Software Engineer with expertise in Problem Solving and Algorithmic Thinking. 
  - 🔭 Currently working on MERN Development React JS .
- -   Looking for opportunities where i can utilise my current skills. 
+ -   Looking for opportunities where I can utilise my current skills. 
  - 📫 How to reach me **nikhiljaiswal20@gmail.com**
  <hr>
  
